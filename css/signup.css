@@ -1,0 +1,126 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+#d2 {
+    display: flex;
+    padding: 20px;
+}
+
+#d21 {
+    width: 49%;
+    height: 800px;
+    /*border: 1px solid black;*/
+}
+
+#d21 h1 {
+    font-family: Haettenschweiler;
+    margin: 70px 50px;
+    color: gray;
+    font-size: 40px;
+    font-weight: normal;
+}
+
+.p1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    margin-left: 40px;
+    color: gray;
+}
+
+.p2 {
+    margin-left: 40px;
+    color: gray;
+    font-size: 20px;
+}
+
+#d21 input {
+    width: 90%;
+    height: 50px;
+    border: 1px solid lightgray;
+    margin-left: 40px;
+    font-size: 20px;
+    color: gray;
+}
+
+#s1 {
+    color: red;
+}
+
+.p3 {
+    float: right;
+    font-size: 20px;
+    margin-right: 40px;
+    color: gray;
+}
+
+.button1 {
+    margin-left: 40px;
+    width: 100px;
+    height: 45px;
+    background-color: gray;
+    color: white;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+hr {
+    width: 90%;
+    margin-top: -50px;
+    margin-left: 40px;
+}
+
+#d22 {
+    width: 49%;
+    height: 1000px;
+    margin-left: 20px;
+    /*border: 1px solid black;*/
+}
+
+#d22 h1 {
+    font-family: Haettenschweiler;
+    margin: 70px 50px;
+    color: gray;
+    font-weight: normal;
+    font-size: 40px;
+}
+
+#d22 .p1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    margin-left: 40px;
+    color: gray;
+}
+
+#d22 .p2 {
+    margin-left: 40px;
+    color: gray;
+    font-size: 20px;
+}
+
+#d22 input {
+    width: 90%;
+    height: 50px;
+    border: 1px solid lightgray;
+    margin-left: 40px;
+    font-size: 20px;
+    color: gray;
+}
+
+#d22 .p3 {
+    margin-left: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: gray;
+    font-size: 30px;
+    float: left;
+}
+
+#d22 .p4 {
+    margin-left: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: lighter;
+    color: gray;
+    font-size: 25px;
+    float: left;
+}
